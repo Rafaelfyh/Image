@@ -1,0 +1,2 @@
+# Image
+Reconhecimento de texto
