@@ -1,3 +1,3 @@
 # Image
-Reconhecimento de texto
-projeto foi desenvolvido para reconhecimento de arquivos de textos  
+
+Reconhecimento Facial e transformação de imagens em Dados no Azure M
